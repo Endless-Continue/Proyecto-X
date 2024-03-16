@@ -1,5 +1,6 @@
 body {
-    background-color: black;
+
+    background-color: aqua;
 }
 
 h1 {
@@ -10,13 +11,19 @@ h1 {
     margin-top: -10px;
     padding-bottom: 20px;
     padding-top: 20px;
-    border: 3px solid white;
-    background-color: purple;
+    border: 3px solid rgb(95, 3, 0);
+    background-color: blueviolet;
 }
 
 main {
-    color: white;
+    color: black;
 }
 
-
+.dancing-script-sex {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 55px;
+  }
 
