@@ -16,7 +16,6 @@ h1 {
 main {
     color: black;
 }
-
 .dancing-script-sex {
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
@@ -24,4 +23,91 @@ main {
     font-style: normal;
     font-size: 55px;
   }
+  nav{
+    color: white;
+    background: blueviolet;
+    display: flex;
+    margin: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(95, 3, 0);
+  }
+  
+  
 
+ /*trying to layout flex*/
+
+/* *{
+    box-sizing: border-box;
+}
+body{
+border: 2px solid black;
+margin-top: 110px;
+margin-left: 0;
+margin-right: 0;
+margin-bottom: 0;
+display: flex;
+flex-wrap: wrap;
+}
+
+nav,
+main,
+aside,
+footer {
+    display: flex;
+    background-color: gray;
+    border: 2px solid black;
+    
+}
+.dancing-script-sex {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 55px;
+  }
+header{
+    background-color: rgb(107, 5, 5);
+    border: 2px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+height: 110px;
+}
+ h1 {
+    display: flex;
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    border: 2px solid blue;
+    background-color: orange;
+}
+main, aside {
+height: auto;
+}
+main{
+width: 1430px;
+}
+aside{
+width: 470px;
+}
+header,
+nav,
+footer{
+    width: 1920px;
+}
+footer{
+    height: 100px;
+}
+p{
+
+} */
