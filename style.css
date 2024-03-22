@@ -78,7 +78,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 400px;
     font-style: normal;
-    font-size: 55px;
+    font-size: 45px;
   }
   .spotify {
     display: none;
@@ -90,14 +90,14 @@ body {
   aside,
   footer {
     display: flex;
-    color: white;
-    background-color: gray;
-    border: 2px solid white;
-    justify-content: center;
-    align-items: center;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
     flex-direction: column;
   }
   header {
+    justify-content: center;
+    align-items: center;
     height: 55px;
   }
   nav {
@@ -111,18 +111,25 @@ body {
     height: 34px;
   }
   main {
-    width: 503px;
+    width: 500px;
   }
   aside {
-    width: 253px;
+    align-items: center;
+    width: 254px;
   }
 
   header,
   nav,
   footer {
-    width: 1024px;}
+    width: 760px;}
 
+.colorciño{
+  background-color: blueviolet;
+  color: white;
+}
+.youtube{
 
+}
 
 
 
