@@ -1,29 +1,15 @@
-body {
+/* body {
 margin: 0;
     background-color: aqua;
-}
+} */
 
-h1 {
-    color: white;
-    text-align: center;
-    margin: 0;
-    padding-bottom: 20px;
-    padding-top: 20px;
-    border: 3px solid rgb(95, 3, 0);
-    background-color: blueviolet;
-}
 
-main {
+
+/* main {
     color: black;
-}
-.dancing-script-sex {
-    font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400px;
-    font-style: normal;
-    font-size: 55px;
-  }
-  nav{
+}*/
+
+ /*  nav{
     color: white;
     background: blueviolet;
     display: flex;
@@ -33,30 +19,133 @@ main {
     justify-content: center;
     align-items: center;
     border: 2px solid rgb(95, 3, 0);
-  }
+  } */
   
-  
+  /* h1 {
+    position: absolute;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border: 3px solid rgb(95, 3, 0);
+    background-color: blueviolet;
+}  
+header{
+    position: relative;
+    background-color: rgb(6, 0, 88);
+    border: 2px solid black;
+    top: 0;
+    left: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+height: 110px;
+} */
 
- /*trying to layout flex*/
-
-/* *{
-    box-sizing: border-box;
-}
-body{
+/* body{
 border: 2px solid black;
-margin-top: 110px;
-margin-left: 0;
-margin-right: 0;
-margin-bottom: 0;
+
 display: flex;
 flex-wrap: wrap;
-}
+width: fit-content;
+height: fit-content;
+position: relative;
+} */
 
+
+ /*trying to layout flex*/
+/*
+ *,
+*::before
+ *::after{
+    box-sizing: border-box;
+}
+body {
+    width: 760px;
+    height: auto;
+    background-color: lightgray;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .dancing-script-sex {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+    font-size: 55px;
+  }
+  .spotify {
+    display: none;
+  }
+
+  header,
+  nav,
+  main,
+  aside,
+  footer {
+    display: flex;
+    color: white;
+    background-color: gray;
+    border: 2px solid white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  header {
+    height: 55px;
+  }
+  nav {
+    height: 40px;
+  }
+  main,
+  aside {
+    height: auto;
+  }
+  footer {
+    height: 34px;
+  }
+  main {
+    width: 503px;
+  }
+  aside {
+    width: 253px;
+  }
+
+  header,
+  nav,
+  footer {
+    width: 1024px;}
+
+
+
+
+*/
+/*ay*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 nav,
 main,
 aside,
 footer {
     display: flex;
+    flex-direction: column;
     background-color: gray;
     border: 2px solid black;
     
@@ -68,24 +157,14 @@ footer {
     font-style: normal;
     font-size: 55px;
   }
-header{
-    background-color: rgb(107, 5, 5);
-    border: 2px solid black;
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin-left: 0px;
-    margin-right: 0px;
-height: 110px;
-}
+
  h1 {
     display: flex;
     margin: 0;
     padding-bottom: 20px;
     padding-top: 20px;
     color: white;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 }
 nav{
     border: 2px solid blue;
@@ -95,6 +174,7 @@ main, aside {
 height: auto;
 }
 main{
+    display: flex;
 width: 1430px;
 }
 aside{
@@ -110,4 +190,8 @@ footer{
 }
 p{
 
-} */
+}  */
+
+
+/* profesor ejemplo */
+
