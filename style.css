@@ -286,13 +286,13 @@ border-radius: 100%;
 @media screen and (min-width: 890px) {
   body{
     /* position: unset; */
-    width: 1010px;
+    width: 1007px;
   }
   header,
   nav,
   footer{
     /* position: unset; */
-    width: 1010px;
+    width: 1007px;
   }
   main{
     /* position: unset; */
