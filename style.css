@@ -128,7 +128,46 @@ border-radius: 100%;
     font-style: normal;
     font-size: 45px;
   }
-  
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
   
 /* 
   .firstF {
@@ -247,21 +286,21 @@ border-radius: 100%;
 @media screen and (min-width: 890px) {
   body{
     /* position: unset; */
-    width: 950px;
+    width: 1010px;
   }
   header,
   nav,
   footer{
     /* position: unset; */
-    width: 950px;
+    width: 1010px;
   }
   main{
     /* position: unset; */
-    width: 648px;
+    width: 700px;
   }
   aside{
     /* position: unset; */
-    width: 302px;
+    width: 307px;
   }}
 
   @media screen and (min-width: 1300px){
